@@ -2,6 +2,18 @@
   "sections": {
     "image_banner": {
       "type": "image-banner",
+      "blocks": {
+        "heading_pQBa9V": {
+          "type": "heading",
+          "settings": {
+            "heading": "Best gifts for best friends.",
+            "heading_size": "large"
+          }
+        }
+      },
+      "block_order": [
+        "heading_pQBa9V"
+      ],
       "custom_css": [
         "img {max-height: 500px; object-fit: cover;}"
       ],
